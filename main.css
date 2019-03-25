@@ -1,3 +1,6 @@
 body{
     background-color: aquamarine
 }
+div{background-color: blue;
+weight:50px;height: 100px
+}
